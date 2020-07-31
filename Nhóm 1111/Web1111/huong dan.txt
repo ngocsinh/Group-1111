@@ -1,0 +1,8 @@
+giai nen thu muc vao htdoc
+truy cap phpmyadmin 
+tao database dat ten la "nhom111"  chon UTF8-UNICODE-CI
+account admin: 
+admin
+123456789
+link web: http://localhost/web1111/banhang
+link admin: http://localhost/web1111/banhang/admin/
